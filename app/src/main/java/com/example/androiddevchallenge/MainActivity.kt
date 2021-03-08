@@ -60,7 +60,6 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.androiddevchallenge.ui.CountdownManager
 import com.example.androiddevchallenge.ui.theme.MyTheme
 import java.text.DateFormat
 import java.text.SimpleDateFormat
